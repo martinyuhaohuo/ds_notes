@@ -1,0 +1,1 @@
+This is a repository for D100 Fundamentals of Data Science notes.
